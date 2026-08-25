@@ -1,0 +1,8 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "使用守护入口模块",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {}
+}

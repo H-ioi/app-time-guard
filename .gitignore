@@ -1,0 +1,28 @@
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/captures/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# HarmonyOS
+harmony/.hvigor/
+harmony/.idea/
+harmony/build/
+harmony/**/build/
+harmony/oh_modules/
+harmony/**/oh_modules/
+harmony/entry/oh_modules/
+*.hap
+*.hsp
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db

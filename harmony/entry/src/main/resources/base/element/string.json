@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "使用守护主模块"
+    },
+    {
+      "name": "ability_desc",
+      "value": "使用守护：家长控制孩子电子设备使用时长"
+    },
+    {
+      "name": "guard_ability_label",
+      "value": "使用守护 · 应用守护"
+    },
+    {
+      "name": "guard_ability_desc",
+      "value": "检测并提醒受限应用的使用"
+    },
+    {
+      "name": "notification_permission_reason",
+      "value": "用于发送使用时长提醒与冷却通知"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">使用守护</string>
+    <string name="accessibility_label">使用守护 · 应用拦截</string>
+    <string name="accessibility_desc">用于阻止打开被限制的应用，并在时间到时显示锁定界面</string>
+    <string name="notification_listener_label">使用守护 · 通知监测</string>
+    <string name="guard_channel_name">管控提醒</string>
+    <string name="guard_channel_desc">时长提醒、冷却通知与家长告警</string>
+    <string name="guard_notification_title">使用守护正在运行</string>
+    <string name="guard_notification_text">正在守护孩子的设备使用时长</string>
+    <string name="request_parent_title">孩子请求使用</string>
+    <string name="request_parent_text">孩子请求使用受限应用，请在家长模式中处理</string>
+</resources>
